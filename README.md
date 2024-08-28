@@ -1,4 +1,4 @@
-# Calculadora Simples com Live Server
+# Calculadora Simples
 
 Uma calculadora básica criada com  HTML, CSS, JavaScript. Este projeto serve como um ponto de partida para aprender os conceitos de desenvolvimento web front-end.
 
@@ -7,7 +7,7 @@ Uma calculadora básica criada com  HTML, CSS, JavaScript. Este projeto serve co
 * CSS
 * JavaScript
 
-1. **Clone o repositório:**
+1. **Clone o repositório**
 2. Abra o projeto em um editor de código: Recomenda-se usar um editor como Visual Studio Code.
 3. Instale o Live Server (se necessário): Se você ainda não tiver o Live Server instalado, siga as instruções para a sua IDE. Geralmente, é uma extensão que pode ser instalada diretamente.
 4. Inicie o servidor: Clique com o botão direito dentro da pasta do projeto e selecione a opção de iniciar o Live Server.
